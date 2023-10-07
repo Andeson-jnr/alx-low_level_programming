@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - Entry point of the program
@@ -40,5 +41,5 @@ int main(void)
 
 	putchar('\n');
 
-	return (0);
+	return (EXIT_SUCCESS);
 }
