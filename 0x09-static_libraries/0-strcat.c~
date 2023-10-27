@@ -1,0 +1,18 @@
+
+#include "main.h"
+
+/**
+ *  _strcat - function that concatenates two strings
+ *  @dest: entered value
+ *  @src: entered value
+ *
+ *  Return: void
+ */
+int _isupper(int c)
+{
+return (c >= 'A' && c <= 'Z');
+else
+return (0);
+}
+
+
